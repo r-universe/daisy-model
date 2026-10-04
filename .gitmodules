@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "daisytools"]
+	path = daisytools
+	url = https://github.com/daisy-model/daisy-r-tools
